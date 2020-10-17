@@ -40,3 +40,8 @@
 ||akamai.net
 ||isnssdk.com
 ||www.tiktok.com
+||mon.tiktokv.com
+||lf16-geckocdn-sg.tiktokcdn.com
+||mon-va.tiktokv.com
+||xlog.tiktokv.com
+||v61.tiktokcdn.com
