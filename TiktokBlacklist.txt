@@ -1,9 +1,3 @@
-!
-! Title: TikTok Blacklist AdGuard
-! Last modified: 17/10/2020
-! Source name: TiktokBlacklist
-! Source: https://github.com/Fayed89/SocialBlaklist/TiktokBlacklist.txt
-!
 
 ||api-h2.tiktokv.com
 ||api21-h2.tiktokv.com
