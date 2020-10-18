@@ -71,4 +71,21 @@ webcast16-normal-c-alisg.tiktokv.com
 www.tiktok.com
 xlog-va.byteoversea.com
 xlog.tiktokv.com
+api19-normal-c-alisg.tiktokv.com
+pull-cmaf-f16-ab.tiktokcdn.com
+pull-cmaf-f16-sg01.tiktokcdn.com
+pull-f5-sg01.tiktokcdn.com
+pull-flv-l1-sg01.tiktokcdn.com
+pull-flv-l1-va01.tiktokcdn.com
+pull-flv-l11-sg01.tiktokcdn.com
+pull-flv-l11-va01.tiktokcdn.com
+pull-hls-f16-sg01.tiktokcdn.com
+pull-hls-l1-sg01.tiktokcdn.com
+pull-hls-l1-va01.tiktokcdn.com
+pull-hls-l11-va01.tiktokcdn.com
+pull-rtmp-l1-sg01.tiktokcdn.com
+pull-rtmp-l1-va01.tiktokcdn.com
+pull-rtmp-l11-sg01.tiktokcdn.com
+pull-rtmp-l11-va01.tiktokcdn.com
+
 
